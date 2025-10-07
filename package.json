@@ -2,7 +2,6 @@
   "name": "food",
   "private": true,
   "version": "0.0.0",
-  // "homepage": "https://github.com/SamudralaBindusree/Food",
   "type": "module",
   "scripts": {
     "dev": "vite",
